@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sankar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript , spring boot, bootstrap
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me on instagram @sankar488
 
 
